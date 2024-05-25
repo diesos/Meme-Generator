@@ -1,0 +1,53 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Karla", sans-serif;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  background: rgb(103,34,128);
+  background: linear-gradient(90deg, rgba(103,34,128,1) 25%, rgba(166,38,211,1) 100%);
+  color: white;
+  height: 3em;
+  padding: 2em;
+
+}
+
+.logo{
+  display: flex;
+}
+
+.logo > img {
+  margin-right: 1em;
+}
+h3{
+  font-size: 2em;
+  align-self: center;
+
+}
+
+h5{
+  font-size: 1.5em;
+  align-self: center;
+  font-weight: 300;
+}
+
+.main-container{
+  display: flex;
+  justify-content: center;
+  gap: 5em
+}
+
+.line-container{
+  border-radius: 10px;
+
+}
+
+input{
+  height: 30px;
+}
+
+input::placeholder{
+}
