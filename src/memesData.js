@@ -190,7 +190,7 @@ export default {
 			{
 				"id": "216951317",
 				"name": "Guy Holding Cardboard Sign",
-				"url": "https://i.imgflip.com/3l60ph.jpg",
+				"url": "https://i.imgflip.com/8c9dbh.jpg",
 				"width": 700,
 				"height": 702,
 				"box_count": 2
