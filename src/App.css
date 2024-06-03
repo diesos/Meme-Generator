@@ -102,9 +102,13 @@ button{
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
   height: 100%;
   flex: 0 0 auto;
   flex-direction: column;
   position: relative;
+}
+footer{
+  text-align: center;
+  opacity: 40%;
 }

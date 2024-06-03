@@ -9,7 +9,7 @@ function App() {
       <div>
         <Nav />
         <Main />
-
+    <footer>Training Project by Omer Ozturk</footer>
       </div>
     </>
   )
