@@ -6,7 +6,7 @@ export default function Nav(){
 			<img src={Logo} alt="logo" />
 			<h3>Meme Generator</h3>
 			</div>
-			<h5>React Course - Project 3</h5>
+
 		</nav>
 	)
 }
